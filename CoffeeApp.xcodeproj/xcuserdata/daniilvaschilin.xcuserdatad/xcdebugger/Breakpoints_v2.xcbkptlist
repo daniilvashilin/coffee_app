@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F0094E54-0CE8-42EE-A12A-9E1DC246DF69"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A5BCFD2-1436-4CFB-9B1A-93BA64E2F39D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeeApp/Models/ScreenSizeMeneger.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ScreenSizeMeneger"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1A5BCFD2-1436-4CFB-9B1A-93BA64E2F39D - 895fb53560a342ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeApp.ScreenSizeMeneger.deinit"
+                  moduleName = "CoffeeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvaschilin/Desktop/CoffeAppxCode/CoffeeApp/CoffeeApp/Models/ScreenSizeMeneger.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "1A5BCFD2-1436-4CFB-9B1A-93BA64E2F39D - fa83e2b3a1b31655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeeApp.ScreenSizeMeneger.__deallocating_deinit"
+                  moduleName = "CoffeeApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvaschilin/Desktop/CoffeAppxCode/CoffeeApp/CoffeeApp/Models/ScreenSizeMeneger.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
